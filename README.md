@@ -5,6 +5,22 @@
 <title>Aastha Traders — Premium Spice Exporters</title>
 <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;0,600;1,300;1,400&family=Montserrat:wght@300;400;500;600&display=swap" rel="stylesheet">
 <style>
+ /* Ensure the parent circle clips anything outside of it */
+.hero-spice-circle {
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+/* Force the image to scale down and fit perfectly inside */
+.hero-circle-img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover; /* Keeps aspect ratio while filling the circle */
+    border-radius: 50%; /* Ensures the image itself is perfectly round */
+}
+
   *, *::before, *::after { margin: 0; padding: 0; box-sizing: border-box; }
   :root {
     --gold: #C9A84C;
@@ -204,7 +220,8 @@
       <div><div class="stat-num">100%</div><div class="stat-label">Quality Certified</div></div>
     </div>
   </div>
-  <div class="hero-spice-circle"> <img src="images/your-new-image.png" alt="Spice Icon" width="10" />
+  <div class="hero-spice-circle">
+    <img src="images/your-image-name.jpg" class="hero-circle-img" alt="Spice Icon" />
   </div>
 </section>
 
