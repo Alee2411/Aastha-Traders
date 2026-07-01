@@ -204,7 +204,7 @@
       <div><div class="stat-num">100%</div><div class="stat-label">Quality Certified</div></div>
     </div>
   </div>
-  <div class="hero-spice-circle"> <img src="images/your-new-image.png" alt="Spice Icon" width="30" />
+  <div class="hero-spice-circle"> <img src="images/your-new-image.png" alt="Spice Icon" width="10" />
   </div>
 </section>
 
