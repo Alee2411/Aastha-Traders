@@ -47,32 +47,27 @@
     background-size: 30px 30px;
   }
   .hero-accent { position: absolute; right: 0; top: 0; bottom: 0; width: 42%; background: linear-gradient(135deg, #2E1F0A 0%, #1A1208 100%); border-left: 1px solid var(--border); }
-    .hero-spice-circle {
-    position: absolute; 
-    right: 5%; 
-    top: 50%; 
+      .hero-spice-circle {
+    position: absolute;
+    right: 5%;
+    top: 50%;
     transform: translateY(-50%);
-    width: 380px; 
-    height: 380px; 
+    width: 380px;
+    height: 380px;
     border-radius: 50%;
-    /* Keep your original background glowing effect */
     background: radial-gradient(circle at 40% 40%, #C9561A, #8B3A10, #3D1A05);
     box-shadow: 0 0 80px rgba(201,86,26,0.3), inset 0 0 60px rgba(0,0,0,0.4);
-    
-    /* NEW: Cleanly align and center the spice image inside */
-    display: flex; 
-    align-items: center; 
+    display: flex;
+    align-items: center;
     justify-content: center;
-    overflow: hidden; 
+    overflow: hidden;
   }
 
-  /* NEW: Keeps your uploaded spice pile beautifully fitted */
   .hero-spices-gfx {
-    width: 85%;          
-    height: 85%;         
-    object-fit: contain; 
+    width: 85%;
+    height: 85%;
+    object-fit: contain;
   }
-
   .hero-content { position: relative; z-index: 2; max-width: 560px; }
   .hero-tag { font-size: 10px; letter-spacing: 4px; text-transform: uppercase; color: var(--gold); margin-bottom: 20px; display: flex; align-items: center; gap: 12px; }
   .hero-tag::before { content: ''; display: block; width: 40px; height: 1px; background: var(--gold); }
