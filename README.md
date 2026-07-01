@@ -5,24 +5,6 @@
 <title>Aastha Traders — Premium Spice Exporters</title>
 <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;0,600;1,300;1,400&family=Montserrat:wght@300;400;500;600&display=swap" rel="stylesheet">
 <style>
-/* Update your existing container styling */
-.hero-spice-circle {
-    position: relative;
-    overflow: hidden;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    background: transparent; /* Removes any default solid background colors */
-}
-
-/* Add styling for the spice graphic file */
-.hero-spices-gfx {
-    width: 85%;          /* Scales down to leave a perfect spacing margin */
-    height: 85%;         /* Keeps the layout perfectly proportioned */
-    object-fit: contain; /* Prevents stretching and shows the whole pile */
-}
-
-
   *, *::before, *::after { margin: 0; padding: 0; box-sizing: border-box; }
   :root {
     --gold: #C9A84C;
@@ -65,14 +47,32 @@
     background-size: 30px 30px;
   }
   .hero-accent { position: absolute; right: 0; top: 0; bottom: 0; width: 42%; background: linear-gradient(135deg, #2E1F0A 0%, #1A1208 100%); border-left: 1px solid var(--border); }
-  .hero-spice-circle {
-    position: absolute; right: 5%; top: 50%; transform: translateY(-50%);
-    width: 380px; height: 380px; border-radius: 50%;
+    .hero-spice-circle {
+    position: absolute; 
+    right: 5%; 
+    top: 50%; 
+    transform: translateY(-50%);
+    width: 380px; 
+    height: 380px; 
+    border-radius: 50%;
+    /* Keep your original background glowing effect */
     background: radial-gradient(circle at 40% 40%, #C9561A, #8B3A10, #3D1A05);
-    display: flex; align-items: center; justify-content: center;
     box-shadow: 0 0 80px rgba(201,86,26,0.3), inset 0 0 60px rgba(0,0,0,0.4);
-    font-size: 120px; text-align: center;
+    
+    /* NEW: Cleanly align and center the spice image inside */
+    display: flex; 
+    align-items: center; 
+    justify-content: center;
+    overflow: hidden; 
   }
+
+  /* NEW: Keeps your uploaded spice pile beautifully fitted */
+  .hero-spices-gfx {
+    width: 85%;          
+    height: 85%;         
+    object-fit: contain; 
+  }
+
   .hero-content { position: relative; z-index: 2; max-width: 560px; }
   .hero-tag { font-size: 10px; letter-spacing: 4px; text-transform: uppercase; color: var(--gold); margin-bottom: 20px; display: flex; align-items: center; gap: 12px; }
   .hero-tag::before { content: ''; display: block; width: 40px; height: 1px; background: var(--gold); }
