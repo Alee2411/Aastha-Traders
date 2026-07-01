@@ -204,9 +204,7 @@
       <div><div class="stat-num">100%</div><div class="stat-label">Quality Certified</div></div>
     </div>
   </div>
-  <div class="hero-spice-circle">
-   <img src="images/indian-spices-herbs.png" alt="Spice Icon" width="30" />
-  </div>
+  <div class="hero-spice-circle">🌶️</div>
 </section>
 
 <section id="about">
