@@ -369,7 +369,7 @@
           <div class="contact-icon">✉️</div>
           <div>
             <div class="contact-label">Email</div>
-            <div class="contact-value"><a href="/alexpillai24@aasthatraders.in</a></div>
+            <div class="contact-value">alexpillai24@aasthatraders.in</div>
           </div>
         </div>
       </div>
