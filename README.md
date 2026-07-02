@@ -261,35 +261,35 @@
       <div class="product-tags"><span class="tag">Curcumin 3–5%</span><span class="tag">Organic Available</span><span class="tag">Bulk & Retail</span></div>
     </div>
     <div class="product-card">
-      <div class="product-img-wrap"><img class="product-img" src="Images/Red Chilli.jpg" alt="Red Chilli" onerror="this.parentElement.style.background='#3D1A05';this.style.display='none'"></div>
+      <div class="product-img-wrap"><img class="product-img" src="Images/Red Chillies.jpg" alt="Red Chilli" onerror="this.parentElement.style.background='#3D1A05';this.style.display='none'"></div>
       <div class="product-name">Red Chilli</div>
       <div class="product-origin">Guntur · Byadgi · Warangal</div>
       <div class="product-desc">Variety-specific export — Guntur Sannam, Byadgi, Teja. Available whole, crushed, or powdered with customisable heat levels (SHU).</div>
       <div class="product-tags"><span class="tag">Variety-Specific</span><span class="tag">High Colour</span><span class="tag">Steam Sterilised</span></div>
     </div>
     <div class="product-card">
-      <div class="product-img-wrap"><img class="product-img" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Coriander_seeds.jpg/1280px-Coriander_seeds.jpg" alt="Coriander" onerror="this.parentElement.style.background='#3D1A05';this.style.display='none'"></div>
+      <div class="product-img-wrap"><img class="product-img" src="Images/Corriander.jpg" alt="Coriander" onerror="this.parentElement.style.background='#3D1A05';this.style.display='none'"></div>
       <div class="product-name">Coriander</div>
       <div class="product-origin">Rajasthan · Madhya Pradesh</div>
       <div class="product-desc">Eagle and Scooter varieties. Rich in essential oils, strong aroma. Supplied as seeds, split, or powder — machine-cleaned and sortex processed.</div>
       <div class="product-tags"><span class="tag">Eagle & Scooter</span><span class="tag">Sortex Clean</span><span class="tag">High Oil</span></div>
     </div>
     <div class="product-card">
-      <div class="product-img-wrap"><img class="product-img" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cumin_seeds.jpg/1280px-Cumin_seeds.jpg" alt="Cumin" onerror="this.parentElement.style.background='#3D1A05';this.style.display='none'"></div>
+      <div class="product-img-wrap"><img class="product-img" src="Images/Cummin.jpg" alt="Cumin" onerror="this.parentElement.style.background='#3D1A05';this.style.display='none'"></div>
       <div class="product-name">Cumin (Jeera)</div>
       <div class="product-origin">Gujarat · Rajasthan</div>
       <div class="product-desc">Premium Unjha and Singapore cumin with rich volatile oils. EU-grade microbiological standards. Available machine-clean or double-sortex.</div>
       <div class="product-tags"><span class="tag">EU-Grade</span><span class="tag">Double Sortex</span><span class="tag">Low Moisture</span></div>
     </div>
     <div class="product-card">
-      <div class="product-img-wrap"><img class="product-img" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Black_peppercorns.jpg/1280px-Black_peppercorns.jpg" alt="Black Pepper" onerror="this.parentElement.style.background='#3D1A05';this.style.display='none'"></div>
+      <div class="product-img-wrap"><img class="product-img" src="Images/Black Pepper.jpg" alt="Black Pepper" onerror="this.parentElement.style.background='#3D1A05';this.style.display='none'"></div>
       <div class="product-name">Black Pepper</div>
       <div class="product-origin">Kerala · Karnataka</div>
       <div class="product-desc">Bold 500/550 g/l density, high piperine content. Available as whole, cracked, and ground. Meets FDA, FSSAI, and EU pesticide residue norms.</div>
       <div class="product-tags"><span class="tag">550 G/L Bold</span><span class="tag">High Piperine</span><span class="tag">FDA Compliant</span></div>
     </div>
     <div class="product-card">
-      <div class="product-img-wrap"><img class="product-img" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Fenugreek_seeds.jpg/1280px-Fenugreek_seeds.jpg" alt="Fenugreek" onerror="this.parentElement.style.background='#3D1A05';this.style.display='none'"></div>
+      <div class="product-img-wrap"><img class="product-img" src="Images/Fenugreek.jpg" alt="Fenugreek" onerror="this.parentElement.style.background='#3D1A05';this.style.display='none'"></div>
       <div class="product-name">Fenugreek</div>
       <div class="product-origin">Rajasthan · Gujarat</div>
       <div class="product-desc">Premium fenugreek seeds and powder rich in saponins and fibre. Widely exported for food, nutraceutical, and cosmetic applications.</div>
