@@ -206,7 +206,7 @@
     </div>
   </div>
   <div class="hero-spice-circle" style="background:none; box-shadow: 0 0 80px rgba(201,86,26,0.4); overflow:hidden; padding:0;">
-    <img src="/Spices.jpg" style="width:100%; height:100%; object-fit:cover; border-radius:50%;" alt="Premium Indian Spices">
+    <img src="Images/Spices.jpg" style="width:100%; height:100%; object-fit:cover; border-radius:50%;" alt="Premium Indian Spices">
   </div>
 </section>
 
