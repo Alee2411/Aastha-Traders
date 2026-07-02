@@ -261,7 +261,7 @@
       <div class="product-tags"><span class="tag">Curcumin 3–5%</span><span class="tag">Organic Available</span><span class="tag">Bulk & Retail</span></div>
     </div>
     <div class="product-card">
-      <div class="product-img-wrap"><img class="product-img" src="Images/Turmeric_Root_and_Turmeric_Powder.jpg" alt="Red Chilli" onerror="this.parentElement.style.background='#3D1A05';this.style.display='none'"></div>
+      <div class="product-img-wrap"><img class="product-img" src="Images/Red Chilli.jpg" alt="Red Chilli" onerror="this.parentElement.style.background='#3D1A05';this.style.display='none'"></div>
       <div class="product-name">Red Chilli</div>
       <div class="product-origin">Guntur · Byadgi · Warangal</div>
       <div class="product-desc">Variety-specific export — Guntur Sannam, Byadgi, Teja. Available whole, crushed, or powdered with customisable heat levels (SHU).</div>
