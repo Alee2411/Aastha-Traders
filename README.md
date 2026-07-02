@@ -369,7 +369,7 @@
           <div class="contact-icon">✉️</div>
           <div>
             <div class="contact-label">Email</div>
-            <div class="contact-value"><a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="abcac7ced3dbc2c7c7cac2999febcacad8dfc3cadfd9cacfced9d885c2c5">[email&#160;protected]</a></div>
+            <div class="contact-value"><a href="/alexpillai24@aasthatraders.in</a></div>
           </div>
         </div>
       </div>
