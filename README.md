@@ -254,14 +254,14 @@
   <p class="lead">We specialise in sourcing, processing, and exporting the finest Indian spices, tailored to international food safety and quality standards.</p>
   <div class="products-grid">
     <div class="product-card">
-      <div class="product-img-wrap"><img class="product-img" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Turmeric-Powder-and-Roots.jpg/1280px-Turmeric-Powder-and-Roots.jpg" alt="Turmeric" onerror="this.parentElement.style.background='#3D1A05';this.style.display='none'"></div>
+      <div class="product-img-wrap"><img class="product-img" src="Images/Turmeric_Root_and_Turmeric_Powder.jpg" alt="Turmeric" onerror="this.parentElement.style.background='#3D1A05';this.style.display='none'"></div>
       <div class="product-name">Turmeric</div>
       <div class="product-origin">Erode · Salem · Nizamabad</div>
       <div class="product-desc">High curcumin content (3–5%). Available in finger, bulb, and powder forms. APEDA certified, preferred by food and pharma industries globally.</div>
       <div class="product-tags"><span class="tag">Curcumin 3–5%</span><span class="tag">Organic Available</span><span class="tag">Bulk & Retail</span></div>
     </div>
     <div class="product-card">
-      <div class="product-img-wrap"><img class="product-img" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Chilli_variety.jpg/1280px-Chilli_variety.jpg" alt="Red Chilli" onerror="this.parentElement.style.background='#3D1A05';this.style.display='none'"></div>
+      <div class="product-img-wrap"><img class="product-img" src="Images/Turmeric_Root_and_Turmeric_Powder.jpg" alt="Red Chilli" onerror="this.parentElement.style.background='#3D1A05';this.style.display='none'"></div>
       <div class="product-name">Red Chilli</div>
       <div class="product-origin">Guntur · Byadgi · Warangal</div>
       <div class="product-desc">Variety-specific export — Guntur Sannam, Byadgi, Teja. Available whole, crushed, or powdered with customisable heat levels (SHU).</div>
