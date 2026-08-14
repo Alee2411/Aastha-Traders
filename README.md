@@ -1,6 +1,15 @@
 <html lang="en">
 <head>
-<meta charset="UTF-8">
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-P7RL433C41"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+ 
+  gtag('config', 'G-P7RL433C41');
+</script>
+ <meta charset="UTF-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge"> 
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Aastha Traders — Premium Spices Exporters</title>
